@@ -5,9 +5,9 @@ This repository was created for **Task 3: Creating and Managing a Repository**. 
 ## Files
 
 * `README.md` — Repository description
-* `sample.py` — Sample Python file
-* `sample.txt` — Sample text file
-* `sample-image.png` — Sample image
+* `Code.py` — Sample Python file
+* `Document.docx` — Sample text file
+* `Image.jpg` — Sample image
 
 ## Purpose
 
